@@ -4,6 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
+/**
+ * Reviewd By Dragos
+ */
 public class MainActivity extends AppCompatActivity implements PassName{
 
     @Override
